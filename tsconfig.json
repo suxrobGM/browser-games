@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "moduleResolution": "node",
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "strictNullChecks": false,
+        "baseUrl": "src",
+        "sourceMap": true,
+        "paths": {
+            "@core/*": ["core/*"]
+        }
+    },
+    "include": [
+        "./src/**/*"
+    ]
+}

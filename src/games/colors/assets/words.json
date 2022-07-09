@@ -1,0 +1,24 @@
+{
+    "words": [
+        {
+            "text": "Blue",
+            "color": "#0088ff"
+        },
+        {
+            "text": "Red",
+            "color": "#ff0000"
+        },
+        {
+            "text": "Green",
+            "color": "#1bff00"
+        },
+        {
+            "text": "Yellow",
+            "color": "#ffff00"
+        },
+        {
+            "text": "Orange",
+            "color": "#ffa500"
+        }
+    ]
+}

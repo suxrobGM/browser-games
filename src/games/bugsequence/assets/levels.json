@@ -1,0 +1,70 @@
+{
+    "levels": [
+        {
+            "value": 1,
+            "awardPoints": 100,
+            "chargePoints": 5,
+            "minPoints": 20,
+            "nextLevelTreshold": 300,
+            "data": {
+                "revealDuration": 1000,
+                "sequenceLength": 3,
+                "rows": 6,
+                "columns": 4
+            }
+        },
+        {
+            "value": 2,
+            "awardPoints": 150,
+            "chargePoints": 10,
+            "minPoints": 20,
+            "nextLevelTreshold": 600,
+            "data": {
+                "revealDuration": 1000,
+                "sequenceLength": 4,
+                "rows": 6,
+                "columns": 4
+            }
+        },
+        {
+            "value": 3,
+            "awardPoints": 250,
+            "chargePoints": 10,
+            "minPoints": 30,
+            "nextLevelTreshold": 1000,
+            "data": {
+                "revealDuration": 1000,
+                "sequenceLength": 5,
+                "rows": 7,
+                "columns": 5
+            }
+        },
+        {
+            "value": 4,
+            "awardPoints": 300,
+            "chargePoints": 10,
+            "minPoints": 40,
+            "nextLevelTreshold": 1500,
+            "data": {
+                "revealDuration": 1000,
+                "sequenceLength": 6,
+                "rows": 8,
+                "columns": 6
+            }
+        },
+        {
+            "value": 5,
+            "awardPoints": 350,
+            "chargePoints": 10,
+            "minPoints": 40,
+            "nextLevelTreshold": 0,
+            "data": {
+                "revealDuration": 1000,
+                "sequenceLength": 7,
+                "rows": 8,
+                "columns": 6
+                
+            }
+        }
+    ]
+}

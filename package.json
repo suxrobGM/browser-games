@@ -1,0 +1,37 @@
+{
+    "name": "meta-startup-games",
+    "version": "1.0.2",
+    "description": "Meta Startup Games",
+    "main": "src/launcher.ts",
+    "scripts": {
+        "dev": "rollup --config rollup.config.dev.js",
+        "build": "rollup --config rollup.config.dist.js",
+        "watch": "rollup --watch --config rollup.config.dev.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/suxrobgm/browser-games.git"
+    },
+    "author": "Frost Pixel Studio",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/suxrobgm/browser-games/issues"
+    },
+    "homepage": "https://github.com/suxrobgm/browser-games#readme",
+    "devDependencies": {
+        "@rollup/plugin-commonjs": "^22.0.0",
+        "@rollup/plugin-node-resolve": "^13.2.1",
+        "@rollup/plugin-replace": "^4.0.0",
+        "@typescript-eslint/eslint-plugin": "^5.21.0",
+        "@typescript-eslint/parser": "^5.21.0",
+        "eslint": "^8.14.0",
+        "phaser": "^3.55.2",
+        "phaser3-rex-plugins": "^1.1.69",
+        "rollup": "^2.70.2",
+        "rollup-plugin-copy": "^3.4.0",
+        "rollup-plugin-serve": "^1.1.0",
+        "rollup-plugin-terser": "^7.0.2",
+        "rollup-plugin-typescript2": "^0.31.2",
+        "typescript": "^4.6.4"
+    }
+}

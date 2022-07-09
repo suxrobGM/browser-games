@@ -1,0 +1,22 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Launch client-side: localhost:10001",
+            "type": "chrome",
+            "request": "launch",
+            "url": "http://localhost:10001/index.html",
+            "webRoot": "${workspaceFolder}/dist"
+        },
+        {
+            "name": "Attach to Process dist/server.js",
+            "type": "node",
+            "request": "attach",
+            "processId": "${command:PickProcess}",
+            "port": 8080
+        }
+    ]
+}
