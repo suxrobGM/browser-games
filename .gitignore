@@ -16,9 +16,9 @@ tmp
 
 
 # Ignore build ts files
-!dist/assets
-!dist/*.js
-!dist/*.js.map
+dist/assets
+dist/*.js
+dist/*.js.map
 !dist/initGame.js
 
 # Build
