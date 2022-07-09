@@ -148,7 +148,7 @@ export class ResultsDialog extends Dialog {
 
         this._nextButton.setCallback(() => {
             // TODO: need to change callback url
-            const url = `/?gameId=${data.gameId}&playerId=${data.playerId}&sessionId=${data.sessionId}&rank=${data.rank}&highscore=${score}&level=${levelToUnlock.value}&timestamp=${data.timestamp}&signature=${data.signature}`
+            const url = `?gameId=${data.gameId}&playerId=${data.playerId}&sessionId=${data.sessionId}&rank=${data.rank}&highscore=${score}&level=${levelToUnlock.value}&timestamp=${data.timestamp}&signature=${data.signature}`
             open(url, "_self");
         });
     }

@@ -15,7 +15,7 @@ tmp
 
 
 
-# Ignore built ts files
+# Ignore build ts files
 !dist/assets
 !dist/*.js
 !dist/*.js.map

@@ -16,6 +16,7 @@ $ npm run dev
 3. Open the http://localhost:10001/games.html and select a game from the list.
 
 ## Sample games
+Click [here](https://suxrobgm.github.io/browser-games/dist/games.html) to open deployed games.
 - "Anagram" - find the correct combination of shuffled words from given options.
 ![Anagram](./docs/anagram.gif)
 

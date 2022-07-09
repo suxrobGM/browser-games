@@ -148,7 +148,7 @@ export abstract class MainMenuBase extends SceneBase {
 
     private exit() {
         this.game.destroy(true, false);
-        open("/games.html", "_self"); // opens list of games
+        open("https://suxrobgm.github.io/browser-games/dist/games.html", "_self"); // opens list of games
     }
 
     private fullscreen() {
