@@ -1,0 +1,69 @@
+{
+    "levels": [
+        {
+            "value": 1,
+            "awardPoints": 100,
+            "chargePoints": 5,
+            "minPoints": 20,
+            "nextLevelTreshold": 300,
+            "data": {
+                "cards": 4,
+                "timing": 3000,
+                "rows": 2,
+                "columns": 2
+            }
+        },
+        {
+            "value": 2,
+            "awardPoints": 150,
+            "chargePoints": 7,
+            "minPoints": 20,
+            "nextLevelTreshold": 600,
+            "data": {
+                "cards": 6,
+                "timing": 3000,
+                "rows": 3,
+                "columns": 3
+            }
+        },
+        {
+            "value": 3,
+            "awardPoints": 250,
+            "chargePoints": 10,
+            "minPoints": 20,
+            "nextLevelTreshold": 1000,
+            "data": {
+                "cards": 8,
+                "timing": 3000,
+                "rows": 3,
+                "columns": 4
+            }
+        },
+        {
+            "value": 4,
+            "awardPoints": 300,
+            "chargePoints": 12,
+            "minPoints": 20,
+            "nextLevelTreshold": 1500,
+            "data": {
+                "cards": 10,
+                "timing": 3000,
+                "rows": 4,
+                "columns": 4
+            }
+        },
+        {
+            "value": 5,
+            "awardPoints": 350,
+            "chargePoints": 14,
+            "minPoints": 20,
+            "nextLevelTreshold": 0,
+            "data": {
+                "cards": 12,
+                "timing": 4000,
+                "rows": 4,
+                "columns": 5
+            }
+        }
+    ]
+}

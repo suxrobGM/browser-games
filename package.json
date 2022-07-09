@@ -1,7 +1,7 @@
 {
-    "name": "meta-startup-games",
-    "version": "1.0.2",
-    "description": "Meta Startup Games",
+    "name": "browser-games",
+    "version": "1.0.0",
+    "description": "HTML5 games",
     "main": "src/launcher.ts",
     "scripts": {
         "dev": "rollup --config rollup.config.dev.js",
@@ -12,7 +12,7 @@
         "type": "git",
         "url": "git+https://github.com/suxrobgm/browser-games.git"
     },
-    "author": "Frost Pixel Studio",
+    "author": "Sukhrob Ilyosbekov",
     "license": "MIT",
     "bugs": {
         "url": "https://github.com/suxrobgm/browser-games/issues"

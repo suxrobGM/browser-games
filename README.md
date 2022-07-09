@@ -1,5 +1,5 @@
 # 2D Games
-HTML5 2D games built up with PhaserJS framework. All games have time limits, dynamic level changes and scoring features. All games are highly customizable and adapt to mobile and desktop screens. 
+HTML5 2D games built up with PhaserJS framework. All games have time limit, dynamic level changing and score features. All games are highly customizable and adapt to mobile and desktop screen sizes. 
 
 ## How to run ?
 1. Install npm dependencies:
